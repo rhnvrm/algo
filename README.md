@@ -1,8 +1,8 @@
-# algo
-Partial Coursework for Algorithms: Design and Analysis, Part 1 Coursera
+# Design and Analysis of Algorithms
 
-#[Certificate](https://github.com/rhnvrm/algo/blob/master/algo1_cert.pdf)
+Contents
 
-
-#Result
-![Result](https://github.com/rhnvrm/algo/blob/master/coursera%20algo%20stanford.png)
+1. Coursework at SNU
+2. CLRS Solutions
+3. Horowitz and Sahani Solutions
+4. Coursera - Specialization in Algorithms (Stanford, by Tim Roughgarden)
